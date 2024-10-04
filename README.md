@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trishasarkar174&label=Profile%20views&color=0e75b6&style=flat" alt="trishasarkar174" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trishasarkar174" alt="trishasarkar174" /></a> </p>
+
 - 🔭 I’m currently learning **Mobile Application Development(Java) & Deep learning**
 
 - 🌱 I’m currently learning **Software Engineering, Wireless Networks & Android**

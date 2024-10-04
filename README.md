@@ -4,7 +4,7 @@
 <div id="header" align="center">
   <img width="260" height="260" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
 </div>
-<h3 align="center">A Passionate CS scholar dedicated to advancing knowledge through research and innovation</h3>
+<h3 align="center"><b>A Passionate CS scholar dedicated to advancing knowledge through research and innovation</b></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trishasarkar174&label=Profile%20views&color=0e75b6&style=flat" alt="trishasarkar174" /> </p>
 

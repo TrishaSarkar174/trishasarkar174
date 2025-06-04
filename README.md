@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trishasarkar174" alt="trishasarkar174" /></a> </p>
 
-- 🔭 I’m currently learning **Mobile Application Development(Java) & Deep learning**
+- 🔭 I’m currently learning **Machine Learning(A-Z)**
 
-- 🌱 I’m currently learning **Software Engineering, Wireless Networks & Android**
+- 🌱 I’m currently conducting research on "Fruit Disease Detection Using Feature Extraction and Deep Learning."
 
 - 👯 I’m looking to collaborate on **Projects on HTML, CSS, JavaScript and React**
 

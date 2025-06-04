@@ -12,11 +12,11 @@
 
 - 🔭 I’m currently learning **Machine Learning(A-Z)**
 
-- 🌱 I’m currently conducting research on "Fruit Disease Detection Using Feature Extraction and Deep Learning."
+- 🌱 I’m currently conducting research on **Fruit Disease Detection Using Feature Extraction and Deep Learning.**
 
 - 👯 I’m looking to collaborate on **Projects on HTML, CSS, JavaScript and React**
 
-- 📫 How to reach me **jucse29.359@gmail.com**
+- 📫 How to reach me **trishasarkar202171@gmail.com**
 
 - ⚡ Fun fact **I think I am Soft-hearted, Friendly and focused computer science enthusiast**
 

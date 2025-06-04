@@ -22,9 +22,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/trisha sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trisha sarkar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/trisha-sarkar-76ab9b285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trisha sarkar" height="30" width="40" /></a>
 <a href="https://kaggle.com/trisha sarkar174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="trisha sarkar174" height="30" width="40" /></a>
-<a href="https://fb.com/trisha sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="trisha sarkar" height="30" width="40" /></a>
+<a href="https://www.facebook.com/oindrilla.sarkar.54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="trisha sarkar" height="30" width="40" /></a>
 <a href="https://discord.gg/trishasarkar0359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="trishasarkar0359" height="30" width="40" /></a>
 </p>
 

@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently learning **Large Language Model**
 
-- 🌱 I’m currently conducting research on **Disease Detection of Vegetables from Feature Words and Application of Deep Learning Submitted.**
+- 🌱 I’m currently conducting research on **Disease Detection of Vegetables from Feature Words and Application of Deep Learning.**
 
 - 👯 I’m looking to collaborate on **Projects on HTML, CSS, JavaScript and React**
 

@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trishasarkar174" alt="trishasarkar174" /></a> </p>
 
-- 🔭 I’m currently learning **Machine Learning(A-Z)**
+- 🔭 I’m currently learning **Large Language Model**
 
-- 🌱 I’m currently conducting research on **Fruit Disease Detection Using Feature Extraction and Deep Learning.**
+- 🌱 I’m currently conducting research on **Disease Detection of Vegetables from Feature Words and Application of Deep Learning Submitted.**
 
 - 👯 I’m looking to collaborate on **Projects on HTML, CSS, JavaScript and React**
 

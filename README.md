@@ -13,12 +13,6 @@
   </a> 
 </p>
 
-<!-- FIX: Using official load-balancing mirror endpoint for Trophies -->
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-tawny.vercel.app/?username=trishasarkar174&theme=flat&margin-w=15" alt="trishasarkar174" />
-  </a> 
-</p>
 
 - 🔭 I’m currently teaching **Data Structures & Algorithms, Computer Networks** and learning **Large Language Models**
 

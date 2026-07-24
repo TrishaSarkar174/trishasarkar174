@@ -6,11 +6,9 @@
 
 <h3 align="center"><b>Lecturer in CSE @ UITS | Academic & AI Researcher (ML, Deep Learning, NLP)</b></h3>
 
-<!-- GitHub Profile Trophy -->
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-tawny.vercel.app/?username=trishasarkar174&theme=flat&margin-w=15" alt="trishasarkar174" />
-  </a> 
+<!-- Alternative: GitHub Profile Summary Card -->
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trishasarkar174&theme=default" alt="Profile Summary" />
 </p>
 
 

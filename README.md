@@ -6,8 +6,11 @@
 
 <h3 align="center"><b>Lecturer in CSE @ UITS | Academic & AI Researcher (ML, Deep Learning, NLP)</b></h3>
 
+<!-- GitHub Profile Trophy -->
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=trishasarkar174&label=Profile%20views&color=0e75b6&style=flat" alt="trishasarkar174" /> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-tawny.vercel.app/?username=trishasarkar174&theme=flat&margin-w=15" alt="trishasarkar174" />
+  </a> 
 </p>
 
 <!-- FIX: Using official load-balancing mirror endpoint for Trophies -->

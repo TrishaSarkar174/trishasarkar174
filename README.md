@@ -10,9 +10,10 @@
   <img src="https://komarev.com/ghpvc/?username=trishasarkar174&label=Profile%20views&color=0e75b6&style=flat" alt="trishasarkar174" /> 
 </p>
 
+<!-- FIX: Updated GitHub Trophy with reliable theme and fallback params -->
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=trishasarkar174" alt="trishasarkar174" />
+    <img src="https://github-profile-trophy.vercel.app/?username=trishasarkar174&theme=flat&margin-w=15" alt="trishasarkar174" />
   </a> 
 </p>
 
@@ -55,12 +56,12 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
+<!-- FIX: Modern, robust GitHub Stats rendering structure -->
 <h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trishasarkar174&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=trishasarkar174&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=trishasarkar174" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trishasarkar174&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=trishasarkar174&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=trishasarkar174&hide_border=true" alt="GitHub Streak" />
 </p>
